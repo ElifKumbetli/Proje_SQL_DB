@@ -4,9 +4,7 @@
 
 Bu proje, `SatisVT` adında bir veritabanı kullanarak geliştirilen bir Windows Form uygulamasıdır. Uygulama, kullanıcıların ürünler, müşteriler, kategoriler, personeller, kasa, istatistikler, şifre ve kullanıcılar, işlemler ve hareketler, ayarlar gibi unsurları yönetmesine olanak tanır. Sol menü üzerinden ilgili modüllere erişim sağlayarak, gerekli veritabanı işlemleri yapılabilir.
 
-## Proje Adı
 
-SatisVT Windows Form Uygulaması
 
 ## Kullanılan Teknolojiler
 
